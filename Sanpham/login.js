@@ -41,11 +41,3 @@ auth.languegeCode ="en"
   });
   })
 
-
-
-  .catch((error) => {
-    // Handle Errors here.
-    const errorCode = error.code;
-    const errorMessage = error.message;
-    console.error(errorCode, errorMessage);
-  });
