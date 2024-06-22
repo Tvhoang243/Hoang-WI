@@ -1,0 +1,14 @@
+
+{
+	"folders": [
+		{
+			"path": "../Jsa/Sp cuối khóa"
+		},
+		{
+			"path": "../Web intersive"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web intersive"
+	}
+}
