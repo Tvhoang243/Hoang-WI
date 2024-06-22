@@ -8,7 +8,7 @@ function login(){
     }
     else if (email == data.email && password==data.password){ 
         alert(" Đăng nhập thành công")
-        window.location.href = "home.html"
+        window.location.href = "/index.html"
     }
     else {
         alert("Đăng nhập thất bại")
